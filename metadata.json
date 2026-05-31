@@ -1,0 +1,6 @@
+{
+  "name": "Password Generator",
+  "description": "Secure, fast, and fully customizable offline password generator with visual strength analysis, easy one-click copying, and mobile-friendly responsive layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
